@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.markina.hw1.regular","l":"Decorator"},{"p":"ru.markina.hw1.sample","l":"Main"},{"p":"ru.markina.hw1.regular","l":"SimpleCalculator"}];updateSearchResults();

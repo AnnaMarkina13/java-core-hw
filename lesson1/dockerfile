@@ -1,0 +1,5 @@
+FROM bellsoft/liberica-openjdk-alpine:16.0.1
+COPY ./src ./imsrc
+RUN mkdir ./out
+RUN javac -sourcepath ./imsrc -d out imsrc/ru/markina/hw1/sample/Main.java
+CMD java -classpath ./out ru.markina.hw1.sample.Main

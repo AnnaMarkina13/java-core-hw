@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.markina.hw1.regular"},{"l":"ru.markina.hw1.sample"}];updateSearchResults();
